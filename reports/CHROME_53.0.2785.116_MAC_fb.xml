@@ -5,9 +5,13 @@
 
   <testsuite name="fb"
     errors="0" failures="0" hostname="" id="" package="fb" skipped="0"
-    tests="1" time="13.08" timestamp="Tue, 27 Sep 2016 07:08:38 GMT">
+    tests="1" time="9.269" timestamp="Tue, 27 Sep 2016 14:01:09 GMT">
   
-    <testcase name="homepage" time="13.08" assertions="1">
+    <testcase name="homepage" time="9.269" assertions="3">
+
+    
+
+    
 
     
     </testcase>
