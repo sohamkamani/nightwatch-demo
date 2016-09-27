@@ -1,4 +1,6 @@
-## Demo code for automating and running tests using nightwatch.js
+# Nightwatch demo
+
+>Sample code for automating and running tests using nightwatch.js
 
 To run this demo :
 
