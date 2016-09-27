@@ -1,0 +1,27 @@
+12:38:38.652 INFO - Launching a standalone Selenium Server
+12:38:38.691 INFO - Java: Oracle Corporation 25.31-b07
+12:38:38.691 INFO - OS: Mac OS X 10.10.5 x86_64
+12:38:38.708 INFO - v2.53.0, with Core v2.53.0. Built from revision 35ae25b
+12:38:38.768 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+registration capabilities Capabilities [{ensureCleanSession=true, browserName=internet explorer, version=, platform=WINDOWS}] does not match the current platform MAC
+12:38:38.769 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+registration capabilities Capabilities [{browserName=MicrosoftEdge, version=, platform=WINDOWS}] does not match the current platform MAC
+12:38:38.769 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+12:38:38.769 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+12:38:38.770 INFO - Driver class not found: org.openqa.selenium.htmlunit.HtmlUnitDriver
+12:38:38.770 INFO - Driver provider org.openqa.selenium.htmlunit.HtmlUnitDriver is not registered
+12:38:38.852 INFO - RemoteWebDriver instances should connect to: http://127.0.0.1:4444/wd/hub
+12:38:38.852 INFO - Selenium Server is up and running
+12:38:39.098 INFO - Executing: [new session: Capabilities [{acceptSslCerts=true, name=Fb, browserName=chrome, javascriptEnabled=true, chromeOptions={args=[window-size=1280,800, disable-web-security, test-type]}, platform=ANY}]])
+12:38:39.111 INFO - Creating a new session for Capabilities [{acceptSslCerts=true, name=Fb, browserName=chrome, javascriptEnabled=true, chromeOptions={args=[window-size=1280,800, disable-web-security, test-type]}, platform=ANY}]
+Starting ChromeDriver 2.24.417412 (ac882d3ce7c0d99292439bf3405780058fcca0a6) on port 13836
+Only local connections are allowed.
+12:38:40.194 INFO - Done: [new session: Capabilities [{acceptSslCerts=true, name=Fb, browserName=chrome, javascriptEnabled=true, chromeOptions={args=[window-size=1280,800, disable-web-security, test-type]}, platform=ANY}]]
+12:38:40.205 INFO - Executing: [get: http://facebook.com])
+12:38:51.868 INFO - Done: [get: http://facebook.com]
+12:38:51.875 INFO - Executing: [find elements: By.cssSelector: body])
+12:38:51.900 INFO - Done: [find elements: By.cssSelector: body]
+12:38:51.904 INFO - Executing: [is displayed: 0 [[ChromeDriver: chrome on MAC (419da1473554eefb5690f7e80642897a)] -> css selector: body]])
+12:38:51.916 INFO - Done: [is displayed: 0 [[ChromeDriver: chrome on MAC (419da1473554eefb5690f7e80642897a)] -> css selector: body]]
+12:38:51.933 INFO - Executing: [delete session: 0d93669c-79b0-4ee9-9be2-69aaeead3ce9])
+12:38:52.014 INFO - Done: [delete session: 0d93669c-79b0-4ee9-9be2-69aaeead3ce9]
