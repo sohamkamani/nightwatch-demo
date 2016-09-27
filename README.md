@@ -2,6 +2,8 @@
 
 >Sample code for automating and running tests using nightwatch.js
 
+Requires node v6 and the Chrome browser
+
 To run this demo :
 
 1. Clone the repo
